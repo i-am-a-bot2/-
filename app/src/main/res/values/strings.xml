@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WinKey Classic HE-EN</string>
+    <string name="ime_service_label">מקלדת ווינדוס קלאסית (עברית/אנגלית)</string>
+    <string name="subtype_hebrew">עברית (Windows Classic SI-1452)</string>
+    <string name="subtype_english">English (US Windows Classic)</string>
+    <string name="accessibility_service_label">WinKey 0-Key Global Trigger</string>
+    <string name="accessibility_service_description">מזהה לחיצה ארוכה על מקש ה-0 בכל מקום במכשיר (מסך הבית ובתוך אפליקציות) ומקפיץ את המקלדת הקלאסית של ווינדוס בעברית ובאנגלית.</string>
+    <string name="overlay_notification_channel">שכבת מקלדת ווינדוס קלאסית</string>
+    <string name="overlay_notification_title">מקלדת ווינדוס קלאסית פעילה ברקע</string>
+    <string name="overlay_notification_text">לחיצה ארוכה על מקש 0 בכל מקום תקפיץ את המקלדת על המסך</string>
+</resources>

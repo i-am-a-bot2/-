@@ -1,0 +1,6 @@
+{
+  "name": "WinKey Classic HE-EN",
+  "description": "Classic Windows Hebrew/English keyboard with global long-press 0 hardware and overlay trigger, compatible down to Android 4.4 architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
